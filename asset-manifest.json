@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AniketAgra/furniture.git/static/css/main.ab758110.css",
+    "main.js": "/AniketAgra/furniture.git/static/js/main.385206d9.js",
+    "static/media/hero-bcg.jpeg": "/AniketAgra/furniture.git/static/media/hero-bcg.e98d13b0afc19d211273.jpeg",
+    "static/media/hero-bcg-2.jpeg": "/AniketAgra/furniture.git/static/media/hero-bcg-2.789918645915c8acb36f.jpeg",
+    "index.html": "/AniketAgra/furniture.git/index.html",
+    "main.ab758110.css.map": "/AniketAgra/furniture.git/static/css/main.ab758110.css.map",
+    "main.385206d9.js.map": "/AniketAgra/furniture.git/static/js/main.385206d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab758110.css",
+    "static/js/main.385206d9.js"
+  ]
+}
